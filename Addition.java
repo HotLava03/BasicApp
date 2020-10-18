@@ -13,7 +13,11 @@ public class Addition{
 
         x = scan.nextInt();
         y = scan.nextInt();
+
+        System.out.println(Your sum is x+y);
+=======
         System.out.println("Your sum is x+y");
+
     }
 }
   
