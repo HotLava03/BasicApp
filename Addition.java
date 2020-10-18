@@ -9,11 +9,11 @@ public class Addition{
 
         /* Prompt */
         System.out.println("Hello, welcome to the Integer Addition Calculator");
-        System.out.println("To start, input two integers below\n);
+        System.out.println("To start, input two integers below\n");
 
         x = scan.nextInt();
         y = scan.nextInt();
-        System.out.println(Your sum is x+y);
+        System.out.println("Your sum is x+y");
     }
 }
   
