@@ -7,7 +7,7 @@ public class Addition{
         Scanner scan = new Scanner(System.in);
 
 
-        /* Prompt *
+        /* Prompt */
         System.out.println("Hello, welcome to the Integer Addition Calculator");
         System.out.println("To start, input two integers below\n);
 
